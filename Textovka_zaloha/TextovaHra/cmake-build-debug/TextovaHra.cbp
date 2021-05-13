@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TextovaHra"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TextovaHra">
+				<Option output="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/TextovaHra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 TextovaHra"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TextovaHra/fast">
+				<Option output="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/TextovaHra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 TextovaHra/fast"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Arena.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Arena.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Domov.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Domov.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Hrac.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Hrac.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Lokace.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Lokace.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Menu.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Menu.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Nepritel.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Nepritel.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Obchod.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Obchod.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/ObchodZbrane.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/ObchodZbrane.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/ObchodZbroj.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/ObchodZbroj.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Prace.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Prace.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Souboj.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Souboj.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Zbran.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Zbran.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Zbroj.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/Zbroj.h">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/main.cpp">
+			<Option target="TextovaHra"/>
+		</Unit>
+		<Unit filename="C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/CMakeFiles/TextovaHra.dir
+C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vojta.000/zoozs2020_xmahdal/TextovaHra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
